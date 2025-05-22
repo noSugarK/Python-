@@ -1,4 +1,4 @@
-个人学习Python的路径
+# 个人学习Python的路径
 
 ## 语法与基础学习
 
@@ -18,5 +18,5 @@
 - [re](语法与基础模块/正则表达式-re模块.ipynb)
 - [time](语法与基础模块/日期与时间-time模块.ipynb)
 
-## Django
+## Django框架
 
