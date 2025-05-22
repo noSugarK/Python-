@@ -1,0 +1,25 @@
+# 忽略所有以 ._ 开头的文件
+._*
+
+# 忽略所有隐藏的临时文件（如 .DS_Store）
+.*.swp
+*.swp
+.DS_Store
+
+.vscode/
+.idea/
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# 日志文件
+*.log
+    *.tmp
+    /temp/
+    .DS_Store
+    Thumbs.db
