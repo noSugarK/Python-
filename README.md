@@ -20,3 +20,11 @@
 
 ## Django框架
 
+- [Django教程](django/Django教程.md)
+    - [创建项目](django/Django教程.md#创建项目)
+        1. [用于开发的简易服务器](django/Django教程.md#用于开发的简易服务器)
+        2. [创建投票应用](django/Django教程.md#创建投票应用)
+        3. [编写第一个视图](django/Django教程.md#编写第一个视图)
+        4. [数据库配置](django/Django教程.md#数据库配置)
+        5. [创建模型](django/Django教程.md#创建模型)
+        6. [激活模型](django/Django教程.md#激活模型)
