@@ -20,11 +20,21 @@
 
 ## Django框架
 
-- [Django教程](django/Django教程.md)
-    - [创建项目](django/Django教程.md#创建项目)
-        1. [用于开发的简易服务器](django/Django教程.md#用于开发的简易服务器)
-        2. [创建投票应用](django/Django教程.md#创建投票应用)
-        3. [编写第一个视图](django/Django教程.md#编写第一个视图)
-        4. [数据库配置](django/Django教程.md#数据库配置)
-        5. [创建模型](django/Django教程.md#创建模型)
-        6. [激活模型](django/Django教程.md#激活模型)
+### [Django教程](django/Django教程.md)
+
+#### 准备
+
+#### 入门
+
+- [URL组成](django/Django教程.md#URL组成)
+- [创建项目](django/Django教程.md#创建一个Django项目)
+- [运行项目](django/Django教程.md#运行Django项目)
+- [url与视图映射](django/Django教程.md#url与视图映射)
+
+#### 模版
+
+- [模版介绍](django/Django教程.md#模版介绍)
+  - [模版渲染](django/Django教程.md#模版渲染)
+- [DTL模版语法](django/Django教程.md#DTL模版语法)
+  - [变量](django/Django教程.md#变量)
+  - [常用标签](django/Django教程.md#常用标签)
